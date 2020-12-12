@@ -1,0 +1,39 @@
+/* styles start to make page responsive */
+.SongSearch {
+  width: 100%; 
+  text-align: center;
+  position: relative;
+  background-color: rgb(228, 249, 186);
+  width: 800px;
+  height: 600px;
+  position: relative;
+  left: 27%;
+}
+
+.SongSearch h1 {
+  margin: 0;
+  font-weight: lighter;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.SongSearch .SongSearch-info {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  text-align: right;
+}
+
+/* selector applied to the two child divs  */
+.SongSearch .SongSearch-info div {
+  display: inline-block;
+  padding: 0.25em 0.5em;
+  background-color: aliceblue;
+}
+
+small {
+  position: relative;
+  top: 190px;
+  left: -420px;
+}

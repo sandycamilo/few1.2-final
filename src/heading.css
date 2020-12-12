@@ -1,0 +1,10 @@
+.title {
+  font-size: 100px;
+}
+
+.title-sub {
+  font-size: 30px;
+  position: relative;
+  top: -65px;
+  left: 20px;
+}
